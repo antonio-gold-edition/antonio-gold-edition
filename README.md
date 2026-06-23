@@ -1,4 +1,5 @@
 ## Hi there 👋 I'm Antonio
+🎓 Third Year BCA Student
 ![Profile Views](https://komarev.com/ghpvc/?username=antonio-gold-edition&color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/antonio-gold-edition?style=social)
 <!--
