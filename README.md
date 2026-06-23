@@ -9,8 +9,7 @@
   - WordPress projects
   - Expanding my programming skills
   - Building personal projects and improving my portfolio
-  - Discord Bot
-  - Web Development
+  - Discord Bots
   - WordPress projects
     
 - 🌱 I’m currently learning
@@ -32,7 +31,8 @@
 </p>
 
 - 📫 How to reach me:
-  - email: antonio.amaral.14.06@gmail.com
+email: antonio.amaral.14.06@gmail.com
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/antonio.amaral1408)
 
 
 ## 📊 GitHub Stats
