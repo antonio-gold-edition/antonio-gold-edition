@@ -25,6 +25,14 @@
   - C Programming
   - SQL & DBMS
   - Basic Web Development
+ 
+## 🏆 Achievements
+
+- 🥇 1st Place – Web Designing, Livewire
+- 🥇 1st Place – Let's Race, Techbytes
+- 🥈 2nd Place – Rig Rumble, Technotronics
+- 🥈 2nd Place – Digital Designing, Kaushalya
+- 🥈 2nd Place – AI Video Making, Colossus
     
 
 ## 🛠️ Languages and Tools
