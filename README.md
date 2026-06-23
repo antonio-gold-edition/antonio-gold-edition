@@ -8,12 +8,11 @@
 -->
 
 - 🔭 I’m currently working on
-  - Web development
-  - WordPress projects
+  - Web Development
+  - WordPress Projects
   - Expanding my programming skills
   - Building personal projects and improving my portfolio
   - Discord Bots
-  - WordPress projects
     
 - 🌱 I’m currently learning
   - Python
@@ -33,8 +32,11 @@
   <img src="https://skillicons.dev/icons?i=python,c,html,css,js,mysql,git,github,vscode" />
 </p>
 
-- 📫 How to reach me:
-email: antonio.amaral.14.06@gmail.com
+## 📫 Connect with Me
+
+- Email: **antonio.amaral.14.06@gmail.com**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-amaral-4b4885376/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/antonio.amaral1408)
 
 
