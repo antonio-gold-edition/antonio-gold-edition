@@ -1,5 +1,6 @@
-## Hi there 👋 Im Antonio
-
+## Hi there 👋 I'm Antonio
+![Profile Views](https://komarev.com/ghpvc/?username=antonio-gold-edition&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/antonio-gold-edition?style=social)
 <!--
 **antonio-gold-edition/antonio-gold-edition** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -8,6 +9,9 @@
   - WordPress projects
   - Expanding my programming skills
   - Building personal projects and improving my portfolio
+  - Discord Bot
+  - Web Development
+  - WordPress projects
     
 - 🌱 I’m currently learning
   - Python
@@ -21,10 +25,6 @@
   - SQL & DBMS
   - Basic Web Development
     
-- 🤖 I’m currently working on
-  - Discord Bot
-  - Web Development
-  - WordPress projects
 
 ## 🛠️ Languages and Tools
 <p>
