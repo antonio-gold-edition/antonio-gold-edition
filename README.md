@@ -29,7 +29,7 @@
 
 ## 🛠️ Languages and Tools
 <p>
-  <img src="[https://skillicons.dev/icons?i=python,c,html,css,js,mysql,git,github,vscode](https://skillicons.dev/icons?i=java,js,python,c,html,css,php,mysql,git,github,vscode)" />
+  <img src="https://skillicons.dev/icons?i=java,js,python,c,html,css,php,mysql,git,github,vscode" />
 </p>
 
 ## 📫 Connect with Me
